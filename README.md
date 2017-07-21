@@ -2,7 +2,7 @@
 
 Check out [gh-pages](https://shanegibney.github.io/d3graph/)
 
-<img width="257" alt="screen shot 2017-07-21 at 13 32 16" src="https://user-images.githubusercontent.com/17167992/28470210-eeb54c8c-6e30-11e7-9e4e-6db650c6a76b.png">
+<img width="486" alt="screen shot 2017-07-21 at 16 29 55" src="https://user-images.githubusercontent.com/17167992/28470528-e0275ce0-6e31-11e7-9684-d817cef0a9d3.png">
 
 # AngularD3Example
 
