@@ -1,3 +1,9 @@
+# d3graph
+
+Check out [gh-pages](https://shanegibney.github.io/d3graph/)
+
+<img width="257" alt="screen shot 2017-07-21 at 13 32 16" src="https://user-images.githubusercontent.com/17167992/28470210-eeb54c8c-6e30-11e7-9e4e-6db650c6a76b.png">
+
 # AngularD3Example
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
